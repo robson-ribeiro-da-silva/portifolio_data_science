@@ -7,7 +7,8 @@
 # Robson Silva
 <sub>*Cientista de Dados*</sub>
 
-Sou iniciante em **Ciência de Dados** com **Python** e em **Análise de Dados** com **PowerBI**.
+Sou iniciante em **Análise e Ciência de Dados** com **Python**.
+E em **Análise de Dados** com **PowerBI**.
 
 **Experiência em:** Python.
 
