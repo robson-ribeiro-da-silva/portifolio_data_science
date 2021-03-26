@@ -21,7 +21,7 @@ E em **Análise de Dados** com **PowerBI**.
 ## Projetos:
 Meus Projetos publicados:
 
-* **Análise dos Dados do Airbnb - Vancouver:** [Visualizador do Jupyter](https://bit.ly/3cq4exr) [Repositório GitHub](https://bit.ly/31kbx3p)
+* **Análise dos Dados do Airbnb - Vancouver:** [Visualizar no Jupyter](https://bit.ly/3cq4exr),  [Visualizar no GitHub](https://bit.ly/31kbx3p)
 
 ---
 
