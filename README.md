@@ -1,7 +1,7 @@
 [![author](https://img.shields.io/badge/author-robson_silva-red.svg)](https://www.linkedin.com/in/robson-silva-0b79291b6) [![](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-383/)
 
 <p align="center">
-  <img src="banner.png" >
+  <img src="data_science.png" >
 </p>
 
 # Robson Silva
