@@ -22,7 +22,7 @@ Aprendendo **PowerBI** para **Análise de Dados**.
 ## Projetos:
 Meus Projetos publicados:
 
-* **Análise dos Dados do Airbnb - Vancouver:** [Visualizar no Jupyter](https://bit.ly/3fiTeUl),  [Visualizar no GitHub](https://bit.ly/31kbx3p)
+* **Análise dos Dados do Airbnb - Vancouver:**   [Visualizar no GitHub](https://bit.ly/31kbx3p), [Visualizar no Jupyter](https://bit.ly/3sAOjlF)
 
 ---
 
