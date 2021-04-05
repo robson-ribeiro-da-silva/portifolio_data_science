@@ -5,7 +5,7 @@
 </p>
 
 # Robson Silva
-<sub>*Cientista de Dados*</sub>
+<sub>*Estudante de Ciência de Dados*</sub>
 
 Formação em **Análise e Desenvolvimento de Sistemas** pelo **Instituto Federal do Rio Grande do Norte (IFRN)**.
 Se aperfeiçoando em **Análise e Ciência de Dados** com **Python** para solucionar desafios reais em _Data Science_.
@@ -22,7 +22,7 @@ Aprendendo **PowerBI** para **Análise de Dados**.
 ## Projetos:
 Meus Projetos publicados:
 
-* **Análise dos Dados do Airbnb - Vancouver:**   [Visualizar no GitHub](https://bit.ly/31kbx3p), [Visualizar no Jupyter](https://bit.ly/3sAOjlF)
+* **Análise dos Dados do Airbnb - Vancouver:**   [Repositório no GitHub](https://bit.ly/31kbx3p)
 
 ---
 
