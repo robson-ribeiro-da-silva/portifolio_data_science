@@ -8,8 +8,8 @@
 <sub>*Estudante de Ciência de Dados*</sub>
 
 Formação em **Análise e Desenvolvimento de Sistemas** pelo **Instituto Federal do Rio Grande do Norte (IFRN)**.
-Se aperfeiçoando em **Análise e Ciência de Dados** com **Python** para solucionar desafios reais em _Data Science_.
-Aprendendo **PowerBI** para **Análise de Dados**.
+Se aperfeiçoando em **Análise e Ciência de Dados** para solucionar desafios reais em _Data Science_.
+Aprendendo **PowerBI** para **Análise e Ciência de Dados**.
 
 **Experiência em:** Python.
 
@@ -22,7 +22,7 @@ Aprendendo **PowerBI** para **Análise de Dados**.
 ## Projetos:
 Meus Projetos publicados:
 
-* **Análise dos Dados do Airbnb - Vancouver:**   [Repositório no GitHub](https://bit.ly/31kbx3p)
-
+* **Análise dos Dados do Airbnb - Vancouver:**   [Repositório no GitHub](https://github.com/robson-ribeiro-da-silva/projects_data_science/blob/54dcba48c3f838fbd2a1def814993ec665a264a0/Analisando_os_Dados_do_Airbnb.ipynb),   [Artigo no Medium](https://robsonrds72.medium.com/an%C3%A1lise-dos-dados-do-airbnb-vancouver-canad%C3%A1-com-o-google-colab-6f9525b6d9e4)
+* **Análise da Violência no Rio de Janeiro:**   [Repositório no GitHub](https://github.com/robson-ribeiro-da-silva/projects_data_science/blob/54dcba48c3f838fbd2a1def814993ec665a264a0/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)
 ---
 
