@@ -23,6 +23,6 @@ Aprendendo **PowerBI** para **Análise e Ciência de Dados**.
 Meus Projetos publicados:
 
 * **Análise dos Dados do Airbnb - Vancouver:**   [Repositório no GitHub](https://github.com/robson-ribeiro-da-silva/projects_data_science/blob/54dcba48c3f838fbd2a1def814993ec665a264a0/Analisando_os_Dados_do_Airbnb.ipynb),   [Artigo no Medium](https://robsonrds72.medium.com/an%C3%A1lise-dos-dados-do-airbnb-vancouver-canad%C3%A1-com-o-google-colab-6f9525b6d9e4)
-* **Análise da Violência no Rio de Janeiro:**   [Repositório no GitHub](https://github.com/robson-ribeiro-da-silva/projects_data_science/blob/54dcba48c3f838fbd2a1def814993ec665a264a0/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)
+* **Análise da Violência no Rio de Janeiro:**   [Repositório no GitHub](https://github.com/robson-ribeiro-da-silva/projects_data_science/blob/54dcba48c3f838fbd2a1def814993ec665a264a0/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb),   [Artigo no Medium](https://robsonrds72.medium.com/analisando-a-viol%C3%AAncia-no-rio-de-janeiro-estudo-de-caso-com-data-science-24d04a83be93)
 ---
 
