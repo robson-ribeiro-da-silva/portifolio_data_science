@@ -11,7 +11,6 @@ Formação em **Análise e Desenvolvimento de Sistemas** pelo **Instituto Federa
 Se aperfeiçoando em **Análise e Ciência de Dados** para solucionar desafios reais em _Data Science_.
 Aprendendo **PowerBI** para **Análise e Ciência de Dados**.
 
-**Experiência em:** Python.
 
 
 **Links:**
