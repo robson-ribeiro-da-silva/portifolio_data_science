@@ -8,7 +8,7 @@
 <sub>*Estudante de Ciência de Dados*</sub>
 
 Formação em **Análise e Desenvolvimento de Sistemas** pelo **Instituto Federal do Rio Grande do Norte (IFRN)**.
-Se aperfeiçoando em **Análise e Ciência de Dados** para solucionar desafios reais em _Data Science_.
+Se aperfeiçoando em **Análise e Ciência de Dados** com **Python** para solucionar desafios reais em _Data Science_.
 Aprendendo **PowerBI** para **Análise e Ciência de Dados**.
 
 
